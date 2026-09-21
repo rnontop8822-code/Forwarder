@@ -29,6 +29,11 @@ TARGET_GROUPS = [
     "pkBDqFpvzGAxZTUx",
     "cardsrentalbooking",
     "earnwithibrahim000"
+    "https://t.me/usa_group2"
+    "https://t.me/freelancering_usa"
+    "https://t.me/USAFreelancer_013"
+    "https://t.me/truckdriversUSA_CDL"
+    "https://t.me/TopTrustedBuySellGroup"
 ]
 
 INTERVAL = 600   # 10 minute
